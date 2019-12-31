@@ -13,7 +13,7 @@
 
 ## Final Outcome
 
-![](Exercise7_Finished.png)
+![](Exercise7_Finished.gif)
 
 # Commands
 ## Project setup
