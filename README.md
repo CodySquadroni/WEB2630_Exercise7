@@ -1,5 +1,21 @@
-# exercise7
+# WEB 2630 Exercise 7
+> For this assignment, you will be adding a flip-in animation to an already created app. The app is a small quizzing tool that asks math problems. When you get a question wrong an alert will show up saying it was wrong but if you get the question right the component will flip and show a correct answer component. Your goal is to create an animation when the user gets the correct answer, you will be able to achieve this by following the example from class and following along with all the ToDo comments within the starter file.You only need to make adjustments to App.vueFollow along with the ToDo comments to achieve the final outcome. * Note: there is a lot of code provided, from this point in class you should understand how all this works.
 
+## Exercise Steps
+
+1. Fork it (<https://github.com/CodySquadroni/WEB2630_Exercise7/fork>)
+2. Clone it (<https://github.com/GITHUB_USERNAME/WEB2630_Exercise7.git>)
+3. Complete ToDo Comments in App.vue
+4. Connect WEB2630_Exercise7 to Netlify
+5. Submit Your GitHub and Netlify URL on Canvas
+
+**Note: Remember to make your GitHub repository private and add me as a collaborator GitHub username: CodySquadroni**
+
+## Final Outcome
+
+![](Exercise7_Finished.png)
+
+# Commands
 ## Project setup
 ```
 npm install
